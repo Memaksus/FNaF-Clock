@@ -1,0 +1,22 @@
+@font-face {
+    font-family: FNaF;
+    src: url(../fonts/five-nights-at-freddys.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    user-select: none;
+    font-family: 'FNaF';
+}
+
+body {
+    background-color: black;
+}
+
+#timer {
+    text-align: center;
+    margin-top: 20%;
+    font-size: 200px;
+}
